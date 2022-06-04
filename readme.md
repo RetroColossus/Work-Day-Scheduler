@@ -1,6 +1,6 @@
 # Quiz Project
 
-  ### This a simple scheduler project where I created a day planner with working hours between 9-5
+  ### This is a simple scheduler project where I created a day planner with working hours between 9-5
 
   ## Code used: HTLM, CSS, and JQUERY.  
    
@@ -29,8 +29,8 @@
    
 
    ## Screenshot of Project
-   ![screenshot of JavaScript Quiz]()
+   ![screenshot of JavaScript Quiz](https://github.com/RetroColossus/Work-Day-Scheduler/blob/main/assets/images/scheduler.JPG)
 
    ## Project Link:
 
-   ()
+   (https://retrocolossus.github.io/Work-Day-Scheduler/)
